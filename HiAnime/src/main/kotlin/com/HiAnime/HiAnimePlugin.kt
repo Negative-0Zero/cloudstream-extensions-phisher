@@ -14,6 +14,7 @@ enum class ServerList(val link: Pair<String, Boolean>) {
     HIANIME_BZ("https://hianime.bz" to true),
     HIANIME_CX("https://hianime.cx" to true),
     HIANIME_DO("https://hianime.do" to true),
+    HIANIME_WS("https://hianime.ws" to true),
     BEST("https://hianimez.is" to true)
 }
 
